@@ -1,0 +1,3 @@
+add_lunch_combo twrp_yxp_770_pad-user
+add_lunch_combo twrp_yxp_770_pad-userdebug
+add_lunch_combo twrp_yxp_770_pad-eng
